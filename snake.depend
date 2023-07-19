@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599038155 source:c:\users\adrian\desktop\snake\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1599544965 source:c:\users\adrian\desktop\c projects\snake\snake\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
